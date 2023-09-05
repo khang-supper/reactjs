@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "product 1",
+      "price": "1202"
+    },
+    {
+      "id": 2,
+      "name": "product 2",
+      "price": "1208"
+    },
+    {
+      "id": 3,
+      "name": "product 3",
+      "price": "2094"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
