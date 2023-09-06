@@ -14,6 +14,11 @@
       "id": 3,
       "name": "product 3",
       "price": "2094"
+    },
+    {
+      "name": "Vikhang",
+      "price": "23455",
+      "id": 4
     }
   ],
   "comments": [
